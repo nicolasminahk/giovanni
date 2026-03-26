@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to   = "/giovanni-tomasso-presskit.html"
+  status = 200
